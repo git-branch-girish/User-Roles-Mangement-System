@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: currentColor;
+}
+
+.App {
+  text-align: center;
+  color: #ffffff;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 500px;
+}
+
+.App-title {
+  font-size: 2em;
+  padding: 50px 0px;
+}
+
+.Assigned-btn {
+  width: 100%;
+}
